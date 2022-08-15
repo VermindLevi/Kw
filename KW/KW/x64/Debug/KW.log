@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\falch\source\repos\KW\KW\main.cpp(58,34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\falch\source\repos\KW\KW\main.cpp(58,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\falch\source\repos\KW\KW\main.cpp(67,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\falch\source\repos\KW\KW\main.cpp(87,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\falch\source\repos\KW\KW\main.cpp(148,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\falch\source\repos\KW\KW\main.cpp(148,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  KW.vcxproj -> C:\Users\falch\source\repos\KW\x64\Debug\KW.exe
